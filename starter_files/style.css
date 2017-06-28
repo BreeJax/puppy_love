@@ -21,8 +21,11 @@ nav a {
   max-width: 20em;
   text-align: center;
   color: white;
-  font-size: 200%;
+  font-size: 20px;
+  border-radius: 5px;
+  padding: 10px;
 }
+
 h2, h3 {
   color: #1fabe5;
 }
