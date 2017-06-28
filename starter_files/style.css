@@ -21,6 +21,7 @@ nav a {
   max-width: 20em;
   text-align: center;
   color: white;
+  font-size: 200%;
 }
 h2, h3 {
   color: #1fabe5;
@@ -31,6 +32,12 @@ thead {
 }
 td {
   border: 1px solid #1fabe5;
+}
+table {
+  border-collapse: collapse;
+}
+li {
+  font-weight: bold;
 }
 
 
