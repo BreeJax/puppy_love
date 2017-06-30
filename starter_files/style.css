@@ -86,9 +86,14 @@ body {
   background-color: #1fabe5;
   font-size: 2em;
   color: white;
-  body: 40px;
 }
-
+#bio {
+  border: #1fabe5;
+  border-style: solid;
+}
+#page_content > section:nth-child(3) > form > div:nth-child(3) > label {
+  padding: 5px;
+}
 
 
 /*
