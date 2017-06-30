@@ -13,7 +13,6 @@ header {
 }
 body > div{
   border: 10px solid #ffd24a;
-  margin: 40px;
 }
 p > a {
   color: #1fabe5;
@@ -53,6 +52,11 @@ form > div{
     width: 800px;
     padding: 20px;
     margin: 0px auto;
+}
+
+form .name label {
+  font-size: 1.5em;
+  color: white;
 }
 
 body {
