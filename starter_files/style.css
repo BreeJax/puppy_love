@@ -3,13 +3,17 @@ html {
   background-image: url('img/bg.jpg');
   padding: 50px;
 }
+#site_header {
+  padding-left: 50px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
 
 header {
   background-color: #ff8523;
 }
 #logo {
    background-image: url('logo.png');
-   height: 70px;
 }
 body > div{
   border: 10px solid #ffd24a;
