@@ -47,12 +47,15 @@ h2, h3 {
 thead {
   background-color: #1fabe5;
   color: white;
+  padding: 5px 10px 5px 10px;
 }
 td {
   border: 1px solid #1fabe5;
+  padding: 5px 10px 5px 10px;
 }
 table {
   border-collapse: collapse;
+  margin-bottom: 30px;
 }
 li {
   font-weight: bold;
@@ -105,6 +108,7 @@ body {
   color: white;
   border-radius: 5px;
   padding: 5px 15px;
+  border: none;
 }
 #bio {
   border: #1fabe5;
@@ -119,6 +123,23 @@ body {
 #page_content > section:nth-child(3) > form > div.name {
   border-radius: 5px;
 }
+#page_content td img {
+  height: 60px;
+  width: 60px;
+}
+#first_name {
+  height: 30px;
+  width: 25%;
+}
+#last_name {
+  height: 30px;
+  width: 25%;
+}
+#page_content > section:nth-child(3) > form > div:nth-child(3), div.city_container > label {
+  font-weight: bolder;
+}
+
+
 
 
 /*
