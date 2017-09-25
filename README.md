@@ -1,6 +1,6 @@
 # README
 
-This document contains some basic instructions for how to interact with this project.
+This document contains the instructions given to us to create this. More learning about styling and such with HTML and CSS.
 
 ## Solution Files
 
@@ -19,8 +19,3 @@ Screen shot of the final code are provided for reference. Feel free to compare y
 ### Starter Files
 
 The starter files contains the complete HTML file and a linked style sheet. Work out of this folder, but don't edit the HTML. Your goal is to add styles to the style sheet to match *index.html*.
-
-
-
-
-
